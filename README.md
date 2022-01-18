@@ -1,2 +1,5 @@
 # OCP
-Php coding for OCP test 
+<?php
+  echo "Hello World!";
+  echo "PHP is so easy!";
+?>
